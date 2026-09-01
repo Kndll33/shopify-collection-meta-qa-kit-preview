@@ -24,6 +24,16 @@ A public evaluation page for an original Excel workflow that helps ecommerce ope
 
 The repository also includes `sample-import.csv`, containing only synthetic examples. The paid XLSX is not published here.
 
+## Have dozens of collections? Test the workflow first
+
+A recent public Shopify Community discussion described the need to review metadata consistently across **60+ collections** rather than editing each page ad hoc. This kit is built for that review-and-handoff problem; it does not claim to control Google's snippet selection.
+
+**Free bounded fit check:** [request a 10-row example](https://github.com/Kndll33/shopify-collection-meta-qa-kit-preview/issues/new?template=free-fit-check.yml). TenK will demonstrate the workflow using either this repository's synthetic rows or up to 10 already-public collection URLs, normally within one business day. No store access, purchase, or follow-up commitment is required.
+
+Do not post admin, preview, password-protected, customer-data, private, or confidential URLs. For a private question, email **morpheus2026@agentmail.to** with subject `Shopify Meta QA fit check`.
+
+Demand evidence: [Shopify Community — scalable metadata/snippet workflow across 60+ collections](https://community.shopify.com/t/impulse-theme-google-ignoring-meta-description-showing-collection-links-in-search-snippets/585928).
+
 ## Price and purchase path
 
 Founding launch price: **$19 USD** for one buyer or legal entity.

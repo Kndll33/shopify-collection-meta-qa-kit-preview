@@ -1,0 +1,46 @@
+name: Request a free 10-row fit check
+description: See the workflow on up to 10 public or synthetic collection rows before deciding whether to buy.
+title: "Free 10-row fit check"
+labels: ["fit-check"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this non-binding form to request one free, bounded fit check. TenK will return an example based on up to 10 public collection URLs you provide or the repository's synthetic sample, normally within one business day. No store access, purchase, or follow-up commitment is required. Do not include customer data, private URLs, payment information, credentials, or confidential material.
+  - type: dropdown
+    id: sample_source
+    attributes:
+      label: Sample source
+      description: Choose whether TenK should use public URLs or the repository's synthetic rows.
+      options:
+        - Use the repository's synthetic sample
+        - I will provide up to 10 already-public collection URLs below
+    validations:
+      required: true
+  - type: textarea
+    id: public_urls
+    attributes:
+      label: Optional public collection URLs
+      description: One URL per line, maximum 10. Leave blank for the synthetic sample. Do not post admin, preview, password-protected, private, or customer-data URLs.
+      placeholder: "https://example.com/collections/example"
+  - type: dropdown
+    id: main_question
+    attributes:
+      label: Main workflow question
+      options:
+        - Character-length review
+        - Duplicate proposed descriptions
+        - Draft / ready / published tracking
+        - Multi-collection review handoff
+        - General fit check
+    validations:
+      required: true
+  - type: checkboxes
+    id: boundaries
+    attributes:
+      label: Safety and scope confirmation
+      options:
+        - label: I understand this is a spreadsheet workflow demonstration, not a store crawl, SEO guarantee, or publishing service.
+          required: true
+        - label: I will not post credentials, private store data, customer data, payment information, or confidential material here.
+          required: true
