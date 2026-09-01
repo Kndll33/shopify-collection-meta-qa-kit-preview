@@ -1,0 +1,19 @@
+source_order,source_url,final_url,http_status,title,title_length,meta_description,meta_description_length,canonical,canonical_matches_final_url,review_cue
+1,https://www.thefishsociety.co.uk/collections/root,https://www.thefishsociety.co.uk/collections/root,200,"Root
+ – The Fish Society",24,,0,https://www.thefishsociety.co.uk/collections/root,true,missing
+2,https://www.thefishsociety.co.uk/collections/recipe-kits,https://www.thefishsociety.co.uk/collections/recipe-kits,200,"Recipe Kits
+ – The Fish Society",31,,0,https://www.thefishsociety.co.uk/collections/recipe-kits,true,missing
+3,https://www.thefishsociety.co.uk/collections/english,https://www.thefishsociety.co.uk/collections/english,200,"English
+ – The Fish Society",27,,0,https://www.thefishsociety.co.uk/collections/english,true,missing
+4,https://www.thefishsociety.co.uk/collections/contact-us,https://www.thefishsociety.co.uk/collections/contact-us,200,"Contact us |
+ – The Fish Society",32,,0,https://www.thefishsociety.co.uk/collections/contact-us,true,missing
+5,https://www.thefishsociety.co.uk/collections/the-fish-society,https://www.thefishsociety.co.uk/collections/the-fish-society,200,The Fish Society | Buy Fish Online | Next Day Delivery,54,,0,https://www.thefishsociety.co.uk/collections/the-fish-society,true,missing
+6,https://www.thefishsociety.co.uk/collections/try-01,https://www.thefishsociety.co.uk/collections/try-01,200,"Try 01
+ – The Fish Society",26,,0,https://www.thefishsociety.co.uk/collections/try-01,true,missing
+7,https://www.thefishsociety.co.uk/collections/bluefin-tuna,https://www.thefishsociety.co.uk/collections/bluefin-tuna,200,"Buy Bluefin Tuna Online | Sashimi Grade | Next Day Delivery
+ – The Fish Society",79,,0,https://www.thefishsociety.co.uk/collections/bluefin-tuna,true,missing
+8,https://www.thefishsociety.co.uk/collections/weekly-essentials,https://www.thefishsociety.co.uk/collections/weekly-essentials,200,"Buy Weekly Essential seafood Online | Next Day Delivery
+ – The Fish Society",75,,0,https://www.thefishsociety.co.uk/collections/weekly-essentials,true,missing
+9,https://www.thefishsociety.co.uk/collections/members-offers,https://www.thefishsociety.co.uk/collections/members-offers,200,"Members Offers
+ – The Fish Society",34,,0,https://www.thefishsociety.co.uk/collections/members-offers,true,missing
+10,https://www.thefishsociety.co.uk/collections/b-black-friday-b,https://www.thefishsociety.co.uk/collections/b-black-friday-b,200,The Fish Society Black Friday Event,35,,0,https://www.thefishsociety.co.uk/collections/b-black-friday-b,true,missing
