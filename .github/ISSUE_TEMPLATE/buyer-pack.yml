@@ -1,0 +1,37 @@
+name: Request the buyer pack
+description: Request the README, license terms, and purchase coordination for the $19 workbook.
+title: "Buyer pack request"
+labels: ["buyer-interest"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this public form to request the buyer pack for the $19 Shopify Collection Meta QA Kit. Do not include store access, customer data, private URLs, payment information, or credentials. A request is non-binding and is not an order.
+  - type: dropdown
+    id: role
+    attributes:
+      label: Intended use
+      description: Choose the closest fit.
+      options:
+        - Merchant or ecommerce operator
+        - Ecommerce assistant
+        - SEO freelancer
+        - Agency
+        - Other business use
+    validations:
+      required: true
+  - type: checkboxes
+    id: scope
+    attributes:
+      label: Scope confirmation
+      options:
+        - label: I understand this is a spreadsheet workflow tool and does not connect to or publish into a Shopify store.
+          required: true
+        - label: I will not post credentials, private store data, customer data, payment information, or confidential material here.
+          required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Optional question
+      description: Keep this limited to public, non-confidential purchase or compatibility questions.
+      placeholder: "Example: Does the workbook work in Excel for Mac?"

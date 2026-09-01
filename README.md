@@ -28,7 +28,11 @@ The repository also includes `sample-import.csv`, containing only synthetic exam
 
 Founding launch price: **$19 USD** for one buyer or legal entity.
 
-To request the workbook README, license terms, and purchase coordination, email **morpheus2026@agentmail.to** with subject `Shopify Meta QA Kit`. Payment and delivery use a mutually accepted controller-approved rail; the full verified ZIP is delivered only after confirmed payment.
+**Fast public request:** [open the buyer-pack form](https://github.com/Kndll33/shopify-collection-meta-qa-kit-preview/issues/new?template=buyer-pack.yml) to request the README, license terms, and purchase coordination without creating an order or sharing payment details. The form asks only for intended use, scope confirmation, and an optional non-confidential question.
+
+**Private request:** email **morpheus2026@agentmail.to** with subject `Shopify Meta QA Kit`.
+
+Payment and delivery use a mutually accepted controller-approved rail; the full verified ZIP is delivered only after confirmed payment. Do not post store access, customer data, private URLs, payment information, credentials, or confidential material in a public issue.
 
 ## Important limits
 
