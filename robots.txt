@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kndll33.github.io/shopify-collection-meta-qa-kit-preview/sitemap.xml
