@@ -52,7 +52,7 @@ Paste one proposed collection meta description per line. This local-only preview
 <script type="module" src="{{ '/collection-checker.mjs' | relative_url }}"></script>
 
 <script>
-(function () {
+document.addEventListener('DOMContentLoaded', function () {
   var source = new URLSearchParams(window.location.search).get('source');
   if (!source || !/^[a-z0-9_-]{1,64}$/i.test(source)) return;
 
@@ -62,7 +62,7 @@ Paste one proposed collection meta description per line. This local-only preview
     url.searchParams.set('title', '[' + source + '] ' + title);
     link.href = url.toString();
   });
-}());
+});
 </script>
 
 For a visible handoff queue with titles, handles, statuses, summary counts, and formulas:
