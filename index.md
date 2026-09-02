@@ -24,6 +24,8 @@ A public evaluation page for an original Excel workflow that helps ecommerce ope
 
 The repository also includes `sample-import.csv`, containing only synthetic examples. The paid XLSX is not published here.
 
+**Versioned evaluation release:** [preview-v1.0.1](https://github.com/Kndll33/shopify-collection-meta-qa-kit-preview/releases/tag/preview-v1.0.1) keeps the same two routes visible together: a free 10-row fit check or a non-binding $19 buyer-pack request.
+
 ## Have dozens of collections? Test the workflow first
 
 A recent public Shopify Community discussion described the need to review metadata consistently across **60+ collections** rather than editing each page ad hoc. This kit is built for that review-and-handoff problem; it does not claim to control Google's snippet selection.
