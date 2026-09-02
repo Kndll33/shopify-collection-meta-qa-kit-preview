@@ -19,7 +19,7 @@ image: https://kndll33.github.io/shopify-collection-meta-qa-kit-preview/listing-
   "sku": "SHOPIFY-COLLECTION-META-QA-V1",
   "offers": {
     "@type": "Offer",
-    "url": "https://github.com/Kndll33/shopify-collection-meta-qa-kit-preview/issues/new?template=buyer-pack.yml",
+    "url": "https://kndll33.github.io/shopify-collection-meta-qa-kit-preview/",
     "priceCurrency": "USD",
     "price": "19.00",
     "availability": "https://schema.org/InStock",
