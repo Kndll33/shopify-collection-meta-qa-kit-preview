@@ -1,3 +1,9 @@
+---
+title: Shopify Collection Meta QA Kit — free 10-row preview
+description: Free 10-row Shopify collection metadata QA preview; verified $19 Excel buyer pack.
+image: https://kndll33.github.io/shopify-collection-meta-qa-kit-preview/listing-1-overview.png
+---
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
