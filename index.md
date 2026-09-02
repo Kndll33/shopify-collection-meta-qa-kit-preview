@@ -1,6 +1,6 @@
 ---
-title: Shopify Collection Meta QA Kit — free 10-row preview
-description: Free 10-row Shopify collection metadata QA preview; verified $19 Excel buyer pack.
+title: Free 10-row Shopify Metadata QA XLSX | $19 203-row pack
+description: Download a free formula-working 10-row Shopify metadata QA XLSX; inspect a public example or request the $19 203-row pack.
 image: https://kndll33.github.io/shopify-collection-meta-qa-kit-preview/listing-1-overview.png
 ---
 
