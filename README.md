@@ -4,6 +4,16 @@ A public evaluation page for an original Excel workflow that helps ecommerce ope
 
 **Try the workflow before requesting anything:** [download the free formula-working 10-row XLSX](https://github.com/Kndll33/shopify-collection-meta-qa-kit-preview/releases/download/preview-v1.0.1/shopify-collection-meta-qa-kit-free-10-row-v1.0.1.xlsx), [inspect the finished public example](samples/underwaterpistol-fishsociety-README.md), or [download that example as CSV](samples/underwaterpistol-fishsociety-public-fitcheck.csv). The example reports only public-page status, titles, metadata, canonicals, and review cues; it makes no ranking promise. None of these routes requires email, login, store access, or a form.
 
+**Fast decision:** choose this workbook when you need an offline Excel review/handoff queue and cannot or do not want to install a store-connected app. Choose a Shopify app instead when you need automatic store crawling, generation, or publishing. [Download the exact 10-row workbook first](https://github.com/Kndll33/shopify-collection-meta-qa-kit-preview/releases/download/preview-v1.0.1/shopify-collection-meta-qa-kit-free-10-row-v1.0.1.xlsx); if its formulas and workflow fit, [request the 203-row $19 pack](https://github.com/Kndll33/shopify-collection-meta-qa-kit-preview/issues/new?template=buyer-pack.yml&title=%5Bgithub-repo%5D%20Shopify%20Meta%20QA%20buyer%20pack).
+
+| Need | This workbook | Store-connected SEO app |
+| --- | --- | --- |
+| Review and handoff in Excel | Yes | Varies |
+| Store login or app install | No | Usually required |
+| Automatic crawl/write/publish | No | Use an app for this |
+| Test before requesting | Free working 10-row XLSX | Check the app's current trial/free tier |
+| Ongoing subscription | No; $19 one-time buyer pack | Depends on the app |
+
 ## What the paid workbook includes
 
 - 203 working rows
