@@ -2,7 +2,7 @@
 
 A public evaluation page for an original Excel workflow that helps ecommerce operators draft, review, and track collection-page meta descriptions before publication.
 
-**See the result before requesting anything:** [open the finished public 10-row example](samples/underwaterpistol-fishsociety-README.md) or [download its CSV](samples/underwaterpistol-fishsociety-public-fitcheck.csv). It reports only public-page status, titles, metadata, canonicals, and review cues; it makes no ranking promise and requires no email, login, store access, or form.
+**Try the workflow before requesting anything:** [download the free formula-working 10-row XLSX](https://github.com/Kndll33/shopify-collection-meta-qa-kit-preview/releases/download/preview-v1.0.1/shopify-collection-meta-qa-kit-free-10-row-v1.0.1.xlsx), [inspect the finished public example](samples/underwaterpistol-fishsociety-README.md), or [download that example as CSV](samples/underwaterpistol-fishsociety-public-fitcheck.csv). The example reports only public-page status, titles, metadata, canonicals, and review cues; it makes no ranking promise. None of these routes requires email, login, store access, or a form.
 
 ## What the paid workbook includes
 
