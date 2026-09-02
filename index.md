@@ -59,6 +59,6 @@ The private release package was rebuilt and checked before this preview was publ
 - all three expected sheets were present
 - formula cells were verified
 - 203 usable rows were present
-- release ZIP SHA-256: `0b455ae29d973f5273d447a6923a68d64d1c3a0e7ae171dd1d33cb8b3d880285`
+- release ZIP SHA-256: `675b3e70b71cd22de1ea6ca1cdfc2230984a54b3880c61778fa03bf4aa538d20`
 
 No order, payment, or performance result is implied by this public preview.
