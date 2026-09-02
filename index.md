@@ -36,6 +36,8 @@ image: https://kndll33.github.io/shopify-collection-meta-qa-kit-preview/listing-
 
 A public evaluation page for an original Excel workflow that helps ecommerce operators draft, review, and track collection-page meta descriptions before publication.
 
+**See the result before requesting anything:** [open the finished public 10-row example](https://github.com/Kndll33/shopify-collection-meta-qa-kit-preview/blob/main/samples/underwaterpistol-fishsociety-README.md) or [download its CSV](https://raw.githubusercontent.com/Kndll33/shopify-collection-meta-qa-kit-preview/main/samples/underwaterpistol-fishsociety-public-fitcheck.csv). It reports only public-page status, titles, metadata, canonicals, and review cues; it makes no ranking promise and requires no email, login, store access, or form.
+
 ## What the paid workbook includes
 
 - 203 working rows
@@ -63,8 +65,6 @@ The repository also includes `sample-import.csv`, containing only synthetic exam
 ## Have dozens of collections? Test the workflow first
 
 A recent public Shopify Community discussion described the need to review metadata consistently across **60+ collections** rather than editing each page ad hoc. This kit is built for that review-and-handoff problem; it does not claim to control Google's snippet selection.
-
-**See the result before requesting anything:** [open the finished public 10-row example](https://github.com/Kndll33/shopify-collection-meta-qa-kit-preview/blob/main/samples/underwaterpistol-fishsociety-README.md) or [download its CSV](https://raw.githubusercontent.com/Kndll33/shopify-collection-meta-qa-kit-preview/main/samples/underwaterpistol-fishsociety-public-fitcheck.csv). It reports only public-page status, titles, metadata, canonicals, and review cues; it makes no ranking promise and requires no email, login, store access, or form.
 
 **Free bounded fit check:** [request a 10-row example](https://github.com/Kndll33/shopify-collection-meta-qa-kit-preview/issues/new?template=free-fit-check.yml). TenK will demonstrate the workflow using either this repository's synthetic rows or up to 10 already-public collection URLs, normally within one business day. No store access, purchase, or follow-up commitment is required.
 
