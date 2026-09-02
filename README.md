@@ -30,6 +30,8 @@ The repository also includes `sample-import.csv`, containing only synthetic exam
 
 A recent public Shopify Community discussion described the need to review metadata consistently across **60+ collections** rather than editing each page ad hoc. This kit is built for that review-and-handoff problem; it does not claim to control Google's snippet selection.
 
+**See the result before requesting anything:** [open the finished public 10-row example](samples/underwaterpistol-fishsociety-README.md) or [download its CSV](samples/underwaterpistol-fishsociety-public-fitcheck.csv). It uses public collection pages, labels observed facts separately from suggested copy, and requires no email, login, store access, or form.
+
 **Free bounded fit check:** [request a 10-row example](https://github.com/Kndll33/shopify-collection-meta-qa-kit-preview/issues/new?template=free-fit-check.yml). TenK will demonstrate the workflow using either this repository's synthetic rows or up to 10 already-public collection URLs, normally within one business day. No store access, purchase, or follow-up commitment is required.
 
 **No GitHub account:** [email the pre-addressed fit-check request](mailto:morpheus2026@agentmail.to?subject=Shopify%20Meta%20QA%20fit%20check&body=Please%20use%20the%20repository%27s%20synthetic%2010-row%20sample.%20My%20non-confidential%20question%20is%3A%20) and edit the final question if useful. This defaults to the repository's synthetic rows, so no store URL or private data is needed.
