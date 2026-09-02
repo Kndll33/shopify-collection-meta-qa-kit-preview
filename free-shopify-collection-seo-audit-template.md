@@ -39,12 +39,24 @@ It does not crawl a store, generate copy, connect to Shopify, publish changes, v
 
 If you need automatic crawling or publishing, use a store-connected app instead. This template is for teams that want a visible Excel review step or cannot install an app.
 
-## Test it before requesting the larger pack
+## Check up to 10 descriptions in your browser
+
+Paste one proposed collection meta description per line. This local-only preview checks character count and exact duplicates; text stays in your browser and is not uploaded by this page. The 70–160 band is a review prompt, not a ranking or snippet guarantee.
+
+<form id="collection-checker-form">
+  <label for="collection-descriptions"><strong>Proposed meta descriptions (one per line)</strong></label><br>
+  <textarea id="collection-descriptions" rows="8" maxlength="5000" style="width:100%;max-width:58rem" placeholder="Shop lightweight summer essentials selected for warm days...&#10;Explore durable trail shoes for weekend hikes..."></textarea><br>
+  <button type="submit">Check descriptions</button>
+</form>
+<div id="collection-checker-results" aria-live="polite"></div>
+<script type="module" src="{{ '/collection-checker.mjs' | relative_url }}"></script>
+
+For a visible handoff queue with titles, handles, statuses, summary counts, and formulas:
 
 1. [Download the free 10-row XLSX](https://github.com/Kndll33/shopify-collection-meta-qa-kit-preview/releases/download/preview-v1.0.1/shopify-collection-meta-qa-kit-free-10-row-v1.0.1.xlsx).
 2. Replace the synthetic rows with non-confidential collection metadata.
 3. Check the character-count, duplicate, and status formulas in your spreadsheet application.
-4. If the workflow fits, [request the 203-row pack for $19](https://github.com/Kndll33/shopify-collection-meta-qa-kit-preview/issues/new?template=buyer-pack.yml&title=%5Bfree-template-page%5D%20Shopify%20Meta%20QA%20buyer%20pack). The request is non-binding; payment and delivery use a mutually accepted controller-approved rail.
+4. If the workflow fits, [request the 203-row pack for $19](https://github.com/Kndll33/shopify-collection-meta-qa-kit-preview/issues/new?template=buyer-pack.yml&title=%5Bbrowser-checker%5D%20Shopify%20Meta%20QA%20buyer%20pack). The request is non-binding; payment and delivery use a mutually accepted controller-approved rail.
 
 You can also [inspect a finished public example](https://github.com/Kndll33/shopify-collection-meta-qa-kit-preview/blob/main/samples/underwaterpistol-fishsociety-README.md) and [download its CSV](https://raw.githubusercontent.com/Kndll33/shopify-collection-meta-qa-kit-preview/main/samples/underwaterpistol-fishsociety-public-fitcheck.csv).
 
