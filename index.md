@@ -36,7 +36,7 @@ image: https://kndll33.github.io/shopify-collection-meta-qa-kit-preview/listing-
 
 A public evaluation page for an original Excel workflow that helps ecommerce operators draft, review, and track collection-page meta descriptions before publication.
 
-**Looking for a free audit template?** Use the focused [free Shopify collection SEO audit template](free-shopify-collection-seo-audit-template.html) for a direct XLSX download, field checklist, limits, and a four-step evaluation path.
+**Looking for a free audit template?** Use the focused [free Shopify collection SEO audit template](free-shopify-collection-seo-audit-template.html?source=index-page) to check up to 10 descriptions locally in your browser, download the XLSX, review limits, and follow a four-step evaluation path.
 
 **Try the workflow before requesting anything:** [download the free formula-working 10-row XLSX](https://github.com/Kndll33/shopify-collection-meta-qa-kit-preview/releases/download/preview-v1.0.1/shopify-collection-meta-qa-kit-free-10-row-v1.0.1.xlsx), [inspect the finished public example](https://github.com/Kndll33/shopify-collection-meta-qa-kit-preview/blob/main/samples/underwaterpistol-fishsociety-README.md), or [download that example as CSV](https://raw.githubusercontent.com/Kndll33/shopify-collection-meta-qa-kit-preview/main/samples/underwaterpistol-fishsociety-public-fitcheck.csv). The example reports only public-page status, titles, metadata, canonicals, and review cues; it makes no ranking promise. None of these routes requires email, login, store access, or a form.
 

@@ -51,6 +51,20 @@ Paste one proposed collection meta description per line. This local-only preview
 <div id="collection-checker-results" aria-live="polite"></div>
 <script type="module" src="{{ '/collection-checker.mjs' | relative_url }}"></script>
 
+<script>
+(function () {
+  var source = new URLSearchParams(window.location.search).get('source');
+  if (!source || !/^[a-z0-9_-]{1,64}$/i.test(source)) return;
+
+  document.querySelectorAll('a[href*="/issues/new?template="]').forEach(function (link) {
+    var url = new URL(link.href);
+    var title = url.searchParams.get('title') || 'Shopify Meta QA request';
+    url.searchParams.set('title', '[' + source + '] ' + title);
+    link.href = url.toString();
+  });
+}());
+</script>
+
 For a visible handoff queue with titles, handles, statuses, summary counts, and formulas:
 
 1. [Download the free 10-row XLSX](https://github.com/Kndll33/shopify-collection-meta-qa-kit-preview/releases/download/preview-v1.0.1/shopify-collection-meta-qa-kit-free-10-row-v1.0.1.xlsx).
