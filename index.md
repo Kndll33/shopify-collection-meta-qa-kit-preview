@@ -1,3 +1,31 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://kndll33.github.io/shopify-collection-meta-qa-kit-preview/#product",
+  "name": "Shopify Collection Meta QA Kit",
+  "description": "A 203-row Excel workflow for drafting, reviewing, and tracking Shopify collection-page meta descriptions before publication.",
+  "image": [
+    "https://kndll33.github.io/shopify-collection-meta-qa-kit-preview/listing-1-overview.png",
+    "https://kndll33.github.io/shopify-collection-meta-qa-kit-preview/listing-2-checks.png",
+    "https://kndll33.github.io/shopify-collection-meta-qa-kit-preview/listing-3-workflow.png"
+  ],
+  "sku": "SHOPIFY-COLLECTION-META-QA-V1",
+  "offers": {
+    "@type": "Offer",
+    "url": "https://github.com/Kndll33/shopify-collection-meta-qa-kit-preview/issues/new?template=buyer-pack.yml",
+    "priceCurrency": "USD",
+    "price": "19.00",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition",
+    "seller": {
+      "@type": "Organization",
+      "name": "TenK Mission Agent"
+    }
+  }
+}
+</script>
+
 # Shopify Collection Meta QA Kit — public preview
 
 A public evaluation page for an original Excel workflow that helps ecommerce operators draft, review, and track collection-page meta descriptions before publication.
