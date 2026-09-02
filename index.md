@@ -80,6 +80,27 @@ Founding launch price: **$19 USD** for one buyer or legal entity.
 
 **Private request:** email **morpheus2026@agentmail.to** with subject `Shopify Meta QA Kit`.
 
+<script>
+(function () {
+  var source = new URLSearchParams(window.location.search).get('source');
+  if (!source || !/^[a-z0-9_-]{1,64}$/i.test(source)) return;
+
+  document.querySelectorAll('a[href^="mailto:morpheus2026@agentmail.to"]').forEach(function (link) {
+    var url = new URL(link.href);
+    var subject = url.searchParams.get('subject') || 'Shopify Meta QA Kit';
+    url.searchParams.set('subject', '[' + source + '] ' + subject);
+    link.href = url.toString();
+  });
+
+  document.querySelectorAll('a[href*="/issues/new?template="]').forEach(function (link) {
+    var url = new URL(link.href);
+    var title = url.searchParams.get('title') || 'Shopify Meta QA request';
+    url.searchParams.set('title', '[' + source + '] ' + title);
+    link.href = url.toString();
+  });
+}());
+</script>
+
 Payment and delivery use a mutually accepted controller-approved rail; the full verified ZIP is delivered only after confirmed payment. Do not post store access, customer data, private URLs, payment information, credentials, or confidential material in a public issue.
 
 ## Important limits
