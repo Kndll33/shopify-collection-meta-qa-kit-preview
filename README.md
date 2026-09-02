@@ -14,6 +14,14 @@ A public evaluation page for an original Excel workflow that helps ecommerce ope
 | Test before requesting | Free working 10-row XLSX | Check the app's current trial/free tier |
 | Ongoing subscription | No; $19 one-time buyer pack | Depends on the app |
 
+## Shopify collection description vs SEO meta description
+
+A Shopify collection can have customer-visible collection content and separate search-listing metadata. In a theme, Shopify exposes the page title and page description as SEO metadata, while search engines can still choose different snippet text. They are related fields, not a promise that one description will appear everywhere.
+
+This workbook is a review layer for proposed titles, meta descriptions, handles, duplicates, and handoff status. It does not crawl the store, change the visible collection description, publish metadata, or control Google's snippet choice. See Shopify's official [theme SEO metadata documentation](https://shopify.dev/docs/storefronts/themes/seo/metadata).
+
+If that is the distinction you are trying to review across many collections, [download the free formula-working 10-row XLSX](https://github.com/Kndll33/shopify-collection-meta-qa-kit-preview/releases/download/preview-v1.0.1/shopify-collection-meta-qa-kit-free-10-row-v1.0.1.xlsx) before requesting anything. If the workflow fits, [request the $19 203-row pack](https://github.com/Kndll33/shopify-collection-meta-qa-kit-preview/issues/new?template=buyer-pack.yml&title=%5Bcollection-description-explainer%5D%20Shopify%20Meta%20QA%20buyer%20pack).
+
 ## What the paid workbook includes
 
 - 203 working rows
